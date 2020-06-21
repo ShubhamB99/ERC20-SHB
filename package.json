@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/ShubhamB99/ERC20-SHB#readme",
   "devDependencies": {
+    "@truffle/hdwallet-provider": "^1.0.35",
     "openzeppelin-solidity": "^3.0.2"
   }
 }
