@@ -1,0 +1,29 @@
+{
+  "name": "erc20-shb",
+  "version": "1.0.0",
+  "description": "ERC20 Custom Token Implementation ",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShubhamB99/ERC20-SHB.git"
+  },
+  "keywords": [
+    "ERC20",
+    "Token"
+  ],
+  "author": "Shubham Bhardwaj <shubhambhardwaj334@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShubhamB99/ERC20-SHB/issues"
+  },
+  "homepage": "https://github.com/ShubhamB99/ERC20-SHB#readme",
+  "devDependencies": {
+    "openzeppelin-solidity": "^3.0.2"
+  }
+}
